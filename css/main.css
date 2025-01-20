@@ -174,7 +174,7 @@ p {
     position: absolute;
     left: 0px;
     bottom: -30px;
-    background-image: url(/imgs/dots.png);
+    background-image: url(../imgs/dots.png);
     background-repeat: repeat;
     z-index: -1;
 }
